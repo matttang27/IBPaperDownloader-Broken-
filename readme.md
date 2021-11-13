@@ -26,7 +26,9 @@ How to use:
 
                 ...
 
-5. Enjoy dying in IB
+5. Enjoy all the INFO:root logs and feel like a hacker
+
+6. Die in IB
 
 If this program doesn't work for you, it worked for me so suck it :P
 
