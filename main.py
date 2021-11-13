@@ -48,7 +48,7 @@ def loadExam(url,num):
 
 def loadPaper(url,num,name,count):
     
-    if ("French" in url or "Spanish" in url):
+    if ("French" in url or "Spanish" in url or "German" in url):
         return
     rcheck1 = time.perf_counter()
     pdf_resp = requests.get(url)
