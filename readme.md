@@ -1,4 +1,7 @@
 IB Paper Downloader
+
+<span style="color:red;font-size:20px">**NO LONGER WORKS, I THINK THE SITE IS DOWN**</span>
+
 ===========
 
 I have no idea why this exists I just felt like downloading all the exams for my IB Subjects

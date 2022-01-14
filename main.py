@@ -10,7 +10,7 @@ check1 = time.perf_counter()
 counter = 0
 
 #Folder path to download to (e.g "C:/IBPAPERS/")
-FOLDERPATH = './Papers/PSYCHOLOGY_SL/'
+FOLDERPATH = 'C:/Users/mattt.DESKTOP-29BGI4H/OneDrive/Documents/'
 #Link to download from
 DOWNLOADLINK = 'https://www.ibdocuments.com/IB%20PAST%20PAPERS%20-%20SUBJECT/Group%203%20-%20Individuals%20and%20Societies/Psychology_SL/'
 
